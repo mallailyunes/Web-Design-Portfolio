@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
+
+body {
+    text-align: center;
+    color:white;
+    background-color:dodgerblue;
+    font-family: "Micro 5", sans-serif;
+}
+
+
+.buttons {
+    cursor:pointer;
+    background-color:white;
+    font-family: "Micro 5", sans-serif;
+}
+
+
+.buttons:hover {
+    color:white;
+    background-color:blue;
+}
+
+
+.centralpark {
+    border: 3px solid black;
+    margin-left: 17%;
+    margin-right: auto;
+}
+
+.about-text {
+    text-align: center;
+}
+
+.section {
+    cursor:pointer;
+    color:black;
+    border: 3px solid black;
+    text-align: center;
+    background-color: white;
+}
+
+.section:hover{
+    background-color: blue;
+    color:white;
+}
+
+.subsection{
+    color:black;
+    border: 3px solid black;
+    text-align: center;
+    background-color: white;
+}
+
+.screenshots {
+    margin-left: 5%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+
+.me {
+    margin-left: auto;
+    margin-right: auto;
+}
